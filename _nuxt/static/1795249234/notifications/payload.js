@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/notifications", {data:[{}],fetch:{},mutations:[["notifications\u002FsetNotifications",[]]]});
